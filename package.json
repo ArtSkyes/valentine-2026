@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://artskyes.github.io/valentine-2026/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
